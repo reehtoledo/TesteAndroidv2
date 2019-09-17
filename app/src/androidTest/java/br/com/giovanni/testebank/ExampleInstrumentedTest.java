@@ -24,4 +24,12 @@ public class ExampleInstrumentedTest {
 
         assertEquals("br.com.giovanni.testebank", appContext.getPackageName());
     }
+
+    @Test
+    public void shoulIdValidNotihg() {
+        assertTrue(true);
+
+    }
+
+
 }
